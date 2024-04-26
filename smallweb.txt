@@ -12390,3 +12390,4 @@ https://マリウス.com/index.xml
 https://encapsulate.me/rss.xml
 https://rb.ax/atom.xml
 http://www.christopher-parsons.com/feed/
+http://jspann.me/blog/index.xml
